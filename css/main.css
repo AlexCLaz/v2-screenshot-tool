@@ -1,0 +1,58 @@
+/*w² colors*/
+
+.w2red {
+	color:RGB(255, 49, 49);
+}
+.w2green {
+	color:RGB(134, 192, 0);
+}
+.w2yellow {
+	color:RGB(255, 173, 34);
+}
+.w2orange {
+	color:RGB(255, 101, 0);
+}
+.w2blue {
+	color:RGB(0, 135, 193);
+}
+.w2marine {
+	color:RGB(32, 197, 255);
+}
+.w2pink {
+	color:RGB(151, 80, 221);
+}
+.thumb-content {	
+    margin-top: -25px;
+}
+.thumb-section {
+	display: inline-block;
+	vertical-align: top;
+	margin: 0 5px;
+}
+.thumb-title {
+	padding-top: 4px;
+    padding-bottom: 6px;
+    font-weight: 500;
+    font-size: 16px;
+}
+.thumb-desc {
+	color: #767676;
+	font-size: 12px;
+}
+.thumb-desc a:link {
+	color: #767676;
+}
+.thumb-desc a:hover {
+	color: #2086bf;
+	text-decoration: underline;
+}
+.thumbnail { 
+	/*width: 207px; */
+	height: 220px; 
+	overflow: hidden; 
+}
+.thumbnail img { 
+	/*object-fit: cover;*/
+	width: 400px; 
+	height: 220px; 
+}
